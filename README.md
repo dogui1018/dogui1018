@@ -1,6 +1,6 @@
-### Hi, I'm 도국 👋
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=30&duration=3500&pause=1500&color=58A6FF&vCenter=true&width=720&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%8F%84%EA%B5%AD%EC%9E%85%EB%8B%88%EB%8B%A4" alt="안녕하세요, 프론트엔드 개발자 도국입니다" />
 
-부산에서 사용자 경험을 고민하는 프론트엔드 개발자입니다.
+부산에서 사용자 경험을 고민하며 Next.js와 TypeScript로 웹을 만들고 있어요.
 
 <br />
 
@@ -15,10 +15,6 @@
 ---
 
 <!-- 여기부터 아래는 꾸미기 영역 -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Building+things+with+Next.js+%26+TypeScript;Always+learning%2C+always+shipping" />
-</p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=dogui1018&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
