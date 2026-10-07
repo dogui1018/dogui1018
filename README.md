@@ -21,12 +21,12 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dogui1018&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogui1018&layout=compact&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dogui1018&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogui1018&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dogui1018&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=dogui1018&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=8b949e40" />
 </p>
 
 <p align="center">
