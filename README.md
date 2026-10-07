@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=30&duration=3500&pause=1500&color=58A6FF&vCenter=true&width=720&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%8F%84%EA%B5%AD%EC%9E%85%EB%8B%88%EB%8B%A4" alt="안녕하세요, 프론트엔드 개발자 도국입니다" />
 
-부산에서 사용자 경험을 고민하며 Next.js와 TypeScript로 웹을 만들고 있어요.
+피그마 한 장이 실제로 움직이는 화면이 되는 순간을 좋아합니다.
 
 <br />
 
